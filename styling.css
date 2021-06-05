@@ -194,7 +194,7 @@ footer{
     font-size: 30px;
 }
 
-@media all and(max-width:670px){
+@media all and(max-width:1000px){
     .header-list{
         display: none;
     }
