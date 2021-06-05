@@ -198,5 +198,7 @@ footer{
     .header-list{
         display: none;
     }
+    .logo{
+    text-align:center}
 }
 
