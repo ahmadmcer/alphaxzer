@@ -1,4 +1,4 @@
-@media all and(max-width:670px){
+@media all and (max-width:670px){
     .header-list{display: none;}
     .logo{text-align: center;}
     .box{border: none;}
